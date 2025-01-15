@@ -1,2 +1,11 @@
 Let's start again!
 Adding this line to remember how to commit from yesterday. (And I guess from years before)
+Completely forgot what was in the repot and what wasnt. I was adding this to the practice html file:
+    <p>I am trying to remember daily how to commit, while going to school and learning several other things. This text 
+        is just another edit to this file so I can try to remember the commands and order.
+    </p>
+    <ol>
+        <li>git add 'file'</li>
+        <li>git commit -m "message"</li>
+        <li>git push</li>
+    </ol>
