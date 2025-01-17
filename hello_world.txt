@@ -13,3 +13,7 @@ Completely forgot what was in the repot and what wasnt. I was adding this to the
 It seems like my little commit chart is fully green interestingly enough, even though all I did was add some text to this.
 I did find a link to read about my contribution graph as well. https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile
 I saw that it is not based on local time, of which I'm EST. So now I will push this after midnight just to see. 
+
+Something weird just happened that caused an error. I tried what I thought would work, git init, and then tried to add then push.
+It gave me an error or something where it said end quote, then I ended up in a different folder. I'll see if I can replicate this for 
+Science... and learning... and stuff. 
