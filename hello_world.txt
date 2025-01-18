@@ -17,3 +17,8 @@ I saw that it is not based on local time, of which I'm EST. So now I will push t
 Something weird just happened that caused an error. I tried what I thought would work, git init, and then tried to add then push.
 It gave me an error or something where it said end quote, then I ended up in a different folder. I'll see if I can replicate this for 
 Science... and learning... and stuff. 
+
+Downloaded the dog image and renamed it with mv which I still think is kind of interesting, even if super basic. 
+Can I move and rename at the same time though? I'll have to give it a try. 
+
+I'm curious as to why we aren't saving the website stuff in the repo but it will probably come shortly. Looking forward to diving into TOP again this weekend. 
