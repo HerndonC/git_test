@@ -22,3 +22,8 @@ Downloaded the dog image and renamed it with mv which I still think is kind of i
 Can I move and rename at the same time though? I'll have to give it a try. 
 
 I'm curious as to why we aren't saving the website stuff in the repo but it will probably come shortly. Looking forward to diving into TOP again this weekend. 
+
+Alt attribute to describe images for accessibility. 
+
+I never realized that the height and width are useful for the page not to jump around. I always found that very
+annoying when websites do that, and now I realize how to fix it if mine ever does. 
