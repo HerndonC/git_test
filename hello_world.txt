@@ -27,3 +27,5 @@ Alt attribute to describe images for accessibility.
 
 I never realized that the height and width are useful for the page not to jump around. I always found that very
 annoying when websites do that, and now I realize how to fix it if mine ever does. 
+
+Trying to figure out something with commits, learning by doing since search results didn't yield anything super useful.
