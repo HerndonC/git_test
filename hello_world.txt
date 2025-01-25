@@ -45,3 +45,14 @@ Hepivelle subgenres worth looking into, reaching out via CIFI discord, etc.
 Need to also learn PA, this should probably be very low priority. 
 
 Unfolding mechanics, each minigame has a currency that buffs different things. 
+
+"A good commit message will explain the why behind your changes"
+Github has a 72-character limit.
+Example of a good commit message will have a subject, then a body:
+"Add missing link and alt text to the company's logo
+
+Screen readers won't read the images to users with disabilities"
+
+Looking back at commits it's interesting how they were added and using github to see how they appear. This is useful for the future,
+although later it might just look like commits for the sake of committing, it kind of is since I figured it's the fastest way to learn git and github.
+
