@@ -56,3 +56,9 @@ Screen readers won't read the images to users with disabilities"
 Looking back at commits it's interesting how they were added and using github to see how they appear. This is useful for the future,
 although later it might just look like commits for the sake of committing, it kind of is since I figured it's the fastest way to learn git and github.
 
+Simple games to learn to code:
+Snake, Pong (Or breakout), Space Invaders.
+My struggle is how do I know how to translate ideas to code? It's probably a practice in syntax, if you know what's possible then that's the 
+biggest part of figuring out the rest. I'm wondering if there's much merit in doing tutorials for games like snake in many different languages. 
+If I learn how to do it in godot for instance, would I get much out of a tutorial in JS? Perhaps the different tutorials would provide different ways 
+to tackle certain problems. That would be very useful. 
